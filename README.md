@@ -1,5 +1,6 @@
 # CODTECH-Java-Internship
 Java internship tasks – File Handling, REST API, Chat App, Recommendation System
+
 1)File-Handling
 <img width="1099" height="718" alt="Screenshot 2025-12-16 060930" src="https://github.com/user-attachments/assets/5f1ea3dc-1154-4528-a9c5-5a182af2dd35" />
 
